@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name mks_wifi-cache)(type Legacy)(uri ${KIPRJMOD}/mks_wifi-cache.lib)(options "")(descr ""))
+  (lib (name iso7721)(type Legacy)(uri ${KIPRJMOD}/iso7721.lib)(options "")(descr ""))
 )

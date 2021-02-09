@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name mks_wifi)(type KiCad)(uri ${KIPRJMOD}/mks_wifi.pretty)(options "")(descr ""))
 )
