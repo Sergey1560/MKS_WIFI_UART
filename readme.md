@@ -11,12 +11,16 @@
 
 ![Схема](./img/shematic.png)
 
+## Архив с gerber файлами
+
+[mks_wifi.zip](./gerber/mks_wifi.zip)
+
 ## Список компонентов
 
 Список компонентов - [mks_wifi_bom.ods](./bom/mks_wifi_bom.ods)
 
 | N  | Кол-во | Номинал | Размер | Link
-| -----------| ---------- |---------|------- |----- |------- |
+| -----------| ---------- |---------|------- |----- |
 | C1, C2     | 2          | 47pF    | 0805   | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805JRNPO9BN470_C107118.html) [TERRA](https://spb.terraelectronica.ru/product/600072) |
 | C3, C5     | 2          | 0.1uF   | 0805   | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html) [TERRA](https://spb.terraelectronica.ru/product/251110) |
 | C4         | 1          | 4.7uF   | 0805   | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM21BR61C475KA88L_C97915.html) [TERRA](https://spb.terraelectronica.ru/product/234492) |
